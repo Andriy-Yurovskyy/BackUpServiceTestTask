@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20e8a3fedeb7844c8809cd42b518a498, type: 3}
+  m_Name: BackupDetails1
+  m_EditorClassIdentifier: 
+  ServerDetails:
+    storageAmount: 10000.4
+  DatabasesDetails:
+  - volume: 3029.2
+    savings: 181.5
+  - volume: 234
+    savings: 123
+  - volume: 239.2
+    savings: 812
+  - volume: 1238.2
+    savings: 127
+  - volume: 876.2
+    savings: 176.2
+  - volume: 192.2
+    savings: 672.1
+  - volume: 1028
+    savings: 72
+  - volume: 1098.2
+    savings: 16
+  - volume: 198.6
+    savings: 192.1
+  - volume: 2908
+    savings: 1765.1
